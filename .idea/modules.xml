@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aplikasi_terbilang.iml" filepath="$PROJECT_DIR$/Aplikasi_terbilang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/terbilang/terbilang.iml" filepath="$PROJECT_DIR$/terbilang/terbilang.iml" />
+    </modules>
+  </component>
+</project>
