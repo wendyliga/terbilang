@@ -1,5 +1,8 @@
 # Terbilang
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.wendyliga/terbilang/badge.svg)](https://maven-badges.herokuapp.com/maven-central/cz.jirutka.rsql/rsql-parser)
+[![Download](https://api.bintray.com/packages/wendyliga/maven/terbilang/images/download.svg)](https://bintray.com/wendyliga/maven/terbilang/_latestVersion)
+
 Terbilang merupakan Library Simple yang Memungkinkan Menambahkan Fitur "Angka Terbilang" di Aplikasi Android / Java
 
 ## Prerequisites
