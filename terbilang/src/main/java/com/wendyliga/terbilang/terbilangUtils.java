@@ -4,6 +4,10 @@ public class terbilangUtils {
 
     static String huruf[] = {"", "Satu", "Dua", "Tiga", "Empat", "Lima", "Enam", "Tujuh", "Delapan", "Sembilan", "Sepuluh", "Sebelas"};
 
+    public static String bilangan(int angka){
+        return bilangan(Long.valueOf(angka));
+    }
+
     public static String bilangan(Long angka) {
         if (angka < 12) {
             return huruf[angka.intValue()];
