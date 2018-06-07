@@ -1,6 +1,7 @@
 package com.wendyliga.terbilang;
 
-public class terbilang {
+public class terbilangUtils {
+
     static String huruf[] = {"", "Satu", "Dua", "Tiga", "Empat", "Lima", "Enam", "Tujuh", "Delapan", "Sembilan", "Sepuluh", "Sebelas"};
 
     public static String bilangan(Long angka) {
