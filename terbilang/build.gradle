@@ -10,12 +10,12 @@ ext {
     libraryName = 'terbilang'
     artifact = 'terbilang'
 
-    libraryDescription = 'TBD'
+    libraryDescription = 'Library Simple yang Memungkinkan Menambahkan Fitur "Angka Terbilang" di Aplikasi Android / Java'
 
     siteUrl = 'https://github.com/wendyliga/terbilang'
     gitUrl = 'https://github.com/wendyliga/terbilang.git'
 
-    libraryVersion = '0.0.3'
+    libraryVersion = '0.1'
 
     developerId = 'wendyliga'
     developerName = 'Wendy Liga'

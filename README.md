@@ -12,7 +12,7 @@ repositories {
 }
 
 dependencies {
-  implementation 'com.wendyliga:terbilang:0.0.1'
+  implementation 'com.wendyliga:terbilang:0.1'
 }
 ```
 
