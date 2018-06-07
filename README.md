@@ -33,6 +33,13 @@ dependencies {
 String terbilang = bilangan(Long number);
 ```
 
+or
+
+```
+String terbilang = bilangan(int number);
+```
+**Note** : While using Integer variable , max number is limited to 2,147,483,647 (Integer Value Limitation)
+
 ## Lisence
 ```
 Copyright (C) 2018 Wendy Liga
