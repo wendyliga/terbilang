@@ -1,7 +1,7 @@
 # Terbilang
 [![Download](https://api.bintray.com/packages/wendyliga/maven/terbilang/images/download.svg)](https://bintray.com/wendyliga/maven/terbilang/_latestVersion)
 
-Terbilang merupakan Library Simple yang Memungkinkan Menambahkan Fitur "Angka Terbilang" di Aplikasi Android / Java
+Terbilang is a simple library that add a feature to show "Angka Terbilang" on your Android Application/Java
 
 ## Prerequisites
 
